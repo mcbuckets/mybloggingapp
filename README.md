@@ -1,0 +1,4 @@
+mybloggingapp
+=============
+
+Python, Flask, SQLAlchemy
